@@ -2,9 +2,11 @@
   
 
 - 🌱 I’m currently learning Vue and Typescript  
-  
-
+- 👾 I like to play Stellaris
 - ⚡ Fun fact: I use tabs over spaces  
+- 🍟 No code no life
+- 👋 Away From OI(CSP-S 3=)
+- 🏳️‍⚧️ Nya~
   
 
 <br/>  
@@ -58,9 +60,6 @@
 <a href="https://github.com/AI-Channel" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://twitter.com/@NekoNoirMel" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>  
 </div>  
   
 
