@@ -1,14 +1,17 @@
-### <div align="center">Hi,I'm Corneria!</div>  
+### <div align="center">Hi,I'm Melusine!</div>  
   
 
 - 🌱 I’m currently learning Vue and Typescript  
 - 👾 I like to play Stellaris
 - ⚡ Fun fact: I use tabs over spaces  
-- 🍟 No code no life
 - 👋 Away From OI(CSP-S 3=)
-- 🏳️‍⚧️ Nya~
+- 🏳️‍⚧️ Transgirl
   
+## Spotify Listening
 
+<br/>  
+
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31634awdaiv4jmegba27itlkjjsi&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true" /></div>  
 <br/>  
 
 
@@ -60,6 +63,9 @@
 <a href="https://github.com/AI-Channel" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
+<a href="https://twitter.com/NekoNorMel" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
 </div>  
   
 
@@ -72,18 +78,5 @@
 <br/>  
 
 <div align="center"><img src="[[https://spotify-github-profile.vercel.app/api/view.svg?uid=31634awdaiv4jmegba27itlkjjsi&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=31634awdaiv4jmegba27itlkjjsi&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)]]"/></div>  
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=AI-Channel&&style=flat-square" align="center" />
-</div>  
-  
-
-<br/>  
-
-
-<br />
-
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
