@@ -1,8 +1,8 @@
 ## Hi,Everyone!  
- **I'm Melusine(She/Her)**-A frontend developer and designer, and I've learned several backend languages too. I'm learning to be a fullstack developer and a advanced designer, perhaps.
+ **I'm Melusine**, A frontend developer and designer, and I've learned several backend languages too. I'm learning to be a fullstack developer and a advanced designer, perhaps.
 
-- 🌱 I’m currently learning Vue, Typescript and Electron
-- 👾 I like to play Stellaris and LOL
+- 🌱 I’m currently learning Vue, Typescript and Tailwindcss
+- 👾 I like to play Minecraft, Stellaris and Starbound
 - ⚡ Fun fact: I use tabs over spaces  
 - 👋 Away From OI(CSP-S 2019 3=)
 - 🏳️‍⚧️ Transgirl UwU
@@ -16,7 +16,7 @@
 
 
 ## My Skill Set 
-[![My Skills](https://skillicons.dev/icons?i=c,css,cpp,codepen,electron,figma,git,github,html,idea,java,js,latex,md,matlab,nodejs,ps,powershell,pr,processing,py,sass,sqlite,svg,ts,vite,vscode,vue)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,css,cpp,codepen,electron,figma,git,github,html,idea,java,js,latex,md,matlab,nodejs,ps,powershell,pr,processing,py,sass,sqlite,svg,ts,vite,vscode,vue,tailwindcss)](https://skillicons.dev)
 
 ## Top Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AI-Channel&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
