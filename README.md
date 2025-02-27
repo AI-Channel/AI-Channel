@@ -1,8 +1,8 @@
 ## Hi,Everyone!  
  **I'm Melusine(she/her)**, A Javascript/Typescript fullstack developer and UI designer, and I've learned several backend languages too. I'm learning to be a advanced designer, perhaps.
 
-- 🌱 I’m currently learning Nuxt, Antd and React
-- 👾 I like to play Minecraft, Stellaris, Starbound and Elite Dangerous
+- 🌱 I’m currently learning React
+- 👾 I like to play Minecraft, Stellaris, Starbound, Monster Hunter and Elite Dangerous
 - ⚡ Fun fact: I use tabs over spaces  
 - 🏳️‍⚧️ Transgirl UwU
   
