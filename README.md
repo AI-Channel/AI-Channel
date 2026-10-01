@@ -16,11 +16,11 @@ I enjoy building interactive web interfaces and turning visual concepts into wor
 ## Selected Projects
  **[MagicMeli - Personal Blog](https://github.com/AI-Channel/MagicMeli)** — Independent full-stack learning project
 
-**Vue · TypeScript · Tailwind CSS · Bun · Elysia · SQLite**
+Vue · TypeScript · Tailwind CSS · Bun · Elysia · SQLite
 
 **Commercial Project Experience** — Confidential
 
-**React · HeroUI · Supabase**
+React · HeroUI · Supabase
 
 ## Links
 [Email](mailto:Shvybzik@proton.me)
